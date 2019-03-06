@@ -16,7 +16,7 @@ export class KeycloakService {
     /*     'url': 'http://localhost:8888/auth',
         'realm': 'example',
         'clientId': 'js-console' */
-        'url': 'https://sso-anxious-quince.7e14.starter-us-west-2.openshiftapps.com/auth',
+        'url': 'https://sso-hello-world-project.apps.na311.openshift.opentlc.com/auth',
         'realm': 'test-microservices-realm',
         'clientId': 'microservices-app'
       };
